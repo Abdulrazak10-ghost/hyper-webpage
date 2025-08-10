@@ -60,6 +60,7 @@ h1 {
     margin: 10px 0 30px;
     line-height: 80px;
     cursor: pointer;
+    
 }
 
 small {
@@ -168,12 +169,15 @@ small {
     animation-delay: 7s;
     width: 35px;
 }
-@media (max-width:600px) {
+.sign{
+        margin-right: 30px;
+    }
+@media (max-width:300px) {
     .sign{
         margin-right: 30px;
     }
     h1{
-        font-size: 50px;
-        line-height: 50px;
+        font-size: 35px;
+        
     }
 }
