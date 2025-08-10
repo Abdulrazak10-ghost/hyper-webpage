@@ -172,7 +172,7 @@ small {
 .sign{
         margin-right: 30px;
     }
-@media (max-width:300px) {
+@media (max-width:600px) {
     .sign{
         margin-right: 30px;
     }
