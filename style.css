@@ -172,4 +172,7 @@ small {
     .sign{
         margin-right: 30px;
     }
+    h1{
+        font-size: 55px;
+      }
 }
